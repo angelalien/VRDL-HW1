@@ -1,6 +1,6 @@
 # VRDL-HW1
 
-Code for Selected Topics in NYCU Visual Recognition using Deep Learning(2021 Autumn) Homework1: Image Classification. 
+Code for Selected Topics in Visual Recognition using Deep Learning(2021 Autumn NYCU) Homework1: Image Classification. 
 
 ## Requirements
 
