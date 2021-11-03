@@ -65,3 +65,5 @@ To make the submission file, run this command:
 python inference.py
 ```
 > Put the model file in the same level of python program file.
+
+You will get answer.txt for submission.
