@@ -38,7 +38,7 @@ python train.py
 
 > Put the python program file in the same level of 2021VRDL_HW1_datasets file.
 
-
+After running, you will get some output files: train_x.npy, val_x.npy, trained_model.pkl
 
 ## Pre-trained Models
 
@@ -66,4 +66,4 @@ python inference.py
 ```
 > Put the model file in the same level of python program file.
 
-You will get answer.txt for submission.
+After running, you will get some output files: answer.txt(for submission), predicted_images.pt
