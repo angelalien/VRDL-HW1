@@ -62,6 +62,6 @@ Model's hyperparameter setting:
 To make the submission file, run this command:
 
 ```inference
-python inference.py --model model_resnext.pkl
+python inference.py
 ```
 > Put the model file in the same level of python program file.
