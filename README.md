@@ -36,7 +36,7 @@ To train the model, run this command:
 python train.py
 ```
 
-> The python program file is put in the same level of 2021VRDL_HW1_datasets file.
+> Put the python program file in the same level of 2021VRDL_HW1_datasets file.
 
 
 
@@ -64,4 +64,4 @@ To make the submission file, run this command:
 ```inference
 python inference.py --model model_resnext.pkl
 ```
-> The model file is put in the same level of python program file.
+> Put the model file in the same level of python program file.
