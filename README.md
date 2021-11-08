@@ -67,3 +67,10 @@ python inference.py
 > Put the model file in the same level of python program file.
 
 After running, you will get some output files: answer.txt(for submission), predicted_images.pt
+
+## Result
+
+Our model achieves the following performance on CodaLab:
+| Model name         | Top 1 Accuracy  |
+| ------------------ |---------------- |
+| Model              |       66.898%   |
